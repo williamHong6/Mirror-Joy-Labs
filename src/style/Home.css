@@ -1,0 +1,56 @@
+/* src/pages/Home.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+    background: linear-gradient(135deg, #d0f4ff, #ffe0f0);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  div {
+    text-align: center;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.85);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: #ff6ec7;
+    margin-bottom: 40px;
+    text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    background: linear-gradient(to right, #6f00ff, #ff4ecd, #00ffe7);
+    color: white;
+    font-size: 1.2rem;
+    padding: 14px 28px;
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 5px 15px rgba(255, 105, 180, 0.4);
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(255, 105, 180, 0.6);
+  }
+  
+  .home_button{
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+  }
+
+  .big_heading{
+    font-size: 20px;
+  }

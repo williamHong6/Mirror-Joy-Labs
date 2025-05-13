@@ -1,0 +1,183 @@
+[
+  {
+    "id": "p001",
+    "name": "理肤泉清痘净肤洁面啫喱",
+    "type": "cleanser",
+    "suitable_skin": [0, 3],
+    "targets": ["acne", "blackhead"],
+    "price": "￥168",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p002",
+    "name": "香奈儿山茶花保湿面霜",
+    "type": "moisturizer",
+    "suitable_skin": [1, 2],
+    "targets": ["dryness", "dullness"],
+    "price": "￥850",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p003",
+    "name": "科颜氏金盏花爽肤水",
+    "type": "toner",
+    "suitable_skin": [2, 3],
+    "targets": ["sensitivity", "redness"],
+    "price": "￥320",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p004",
+    "name": "兰蔻极光水",
+    "type": "toner",
+    "suitable_skin": [0, 2],
+    "targets": ["dullness", "acne"],
+    "price": "￥560",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p005",
+    "name": "雅诗兰黛多效智妍面霜",
+    "type": "moisturizer",
+    "suitable_skin": [1, 2, 3],
+    "targets": ["wrinkle", "dryness"],
+    "price": "￥820",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p006",
+    "name": "SK-II 神仙水",
+    "type": "essence",
+    "suitable_skin": [2, 3],
+    "targets": ["dullness", "pores"],
+    "price": "￥1550",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p007",
+    "name": "理肤泉B5修复霜",
+    "type": "moisturizer",
+    "suitable_skin": [1, 3],
+    "targets": ["sensitivity", "dryness"],
+    "price": "￥215",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p008",
+    "name": "珂润润浸保湿面霜",
+    "type": "moisturizer",
+    "suitable_skin": [1, 2],
+    "targets": ["dryness"],
+    "price": "￥168",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p009",
+    "name": "碧柔水感防晒乳 SPF50+",
+    "type": "sunscreen",
+    "suitable_skin": [0, 2, 3],
+    "targets": ["uv"],
+    "price": "￥89",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p010",
+    "name": "悦木之源泥娃娃面膜",
+    "type": "mask",
+    "suitable_skin": [0, 3],
+    "targets": ["blackhead", "pores"],
+    "price": "￥240",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p011",
+    "name": "科颜氏高保湿面霜",
+    "type": "moisturizer",
+    "suitable_skin": [1, 2, 3],
+    "targets": ["dryness"],
+    "price": "￥315",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p012",
+    "name": "城野医生毛孔收缩水",
+    "type": "toner",
+    "suitable_skin": [0, 3],
+    "targets": ["pores", "oiliness"],
+    "price": "￥125",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p013",
+    "name": "雪肌精化妆水",
+    "type": "toner",
+    "suitable_skin": [1, 2],
+    "targets": ["dullness", "pigmentation"],
+    "price": "￥390",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p014",
+    "name": "倩碧三部曲洁面皂",
+    "type": "cleanser",
+    "suitable_skin": [0, 2],
+    "targets": ["acne", "oiliness"],
+    "price": "￥180",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p015",
+    "name": "资生堂红腰子精华",
+    "type": "serum",
+    "suitable_skin": [2, 3],
+    "targets": ["sensitivity", "aging"],
+    "price": "￥880",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p016",
+    "name": "HFP烟酰胺精华液",
+    "type": "serum",
+    "suitable_skin": [0, 3],
+    "targets": ["pores", "pigmentation"],
+    "price": "￥99",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p017",
+    "name": "The Ordinary 玻尿酸精华",
+    "type": "serum",
+    "suitable_skin": [1, 2],
+    "targets": ["dryness", "fine lines"],
+    "price": "￥85",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p018",
+    "name": "玉兰油小白瓶",
+    "type": "serum",
+    "suitable_skin": [2, 3],
+    "targets": ["pigmentation", "dullness"],
+    "price": "￥290",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p019",
+    "name": "AHC玻尿酸补水面膜",
+    "type": "mask",
+    "suitable_skin": [1, 2, 3],
+    "targets": ["dryness"],
+    "price": "￥129",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p020",
+    "name": "薇诺娜舒敏保湿特护霜",
+    "type": "moisturizer",
+    "suitable_skin": [1, 3],
+    "targets": ["sensitivity", "redness"],
+    "price": "￥278",
+    "image": "https://via.placeholder.com/150"
+  }
+]
+
